@@ -1,10 +1,10 @@
 
 import React from "react";
-import HeroSections from "../component/HeroSections";
-import img from "../assets/Images/DDC6.jpg";
-import WhoWeAre from "../component/WhoWeAre";
-import OurServicesHome from "../component/OurServicesHome";
-import WhoWeAreCards from "../component/WhoWeAreCards"
+import HeroSections from "./HeroSections";
+import img  from '../assets/Images/DDC6.jpg'
+import WhoWeAre from "./WhoWeAre";
+import OurServicesHome from "./OurServicesHome";
+import WhoWeAreCards from "./WhoWeAreCards"
 import { TbTargetArrow } from "react-icons/tb";
 import { MdVisibility } from "react-icons/md";
 import { GiBurningBook } from "react-icons/gi";
