@@ -2,7 +2,7 @@ import React from "react";
 import Header from "./Header";
 import img1 from "../assets/Images/DDC4.jpg"
 import img2 from "../assets/image.png"
-import img3 from "../assets/Image1.jpg"
+import img3 from "../assets/image1.jpg"
 import img4 from "../assets/image2.png"
 
 const OurServices = () => {
