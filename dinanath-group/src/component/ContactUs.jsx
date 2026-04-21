@@ -19,7 +19,7 @@ const ContactUs = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await fetch("http://localhost:5004/api/auth/contact-us", {
+      const response = await fetch("https://dinanath8.onrender.com/api/auth/contact-us", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
